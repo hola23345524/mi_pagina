@@ -1,0 +1,51 @@
+*{
+padding:0 ;
+margin: 0;
+    font-family:'source sans 3', sans-serif ;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+
+
+}
+
+.body {
+    background-color: black;
+    display: flex;
+}
+.hola{
+    width: max-content;
+    height: max-content;
+    color: aquamarine;
+}
+
+
+.btn {
+    background-color: yellow;
+    border-color: rgb(113, 113, 7);
+    
+
+}
+
+.btn-warning{
+    color: black;
+    border-radius: 100px;
+    border-color: yellow;
+    width: 300px;
+    height: 60px;
+}
+
+.img-hola{
+    width: 200px;
+    margin: 200;
+    height: 200px;
+    color-interpolation-filters: auto;
+}
+
+
+
+
+
+
+
